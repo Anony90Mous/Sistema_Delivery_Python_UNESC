@@ -54,7 +54,7 @@ cd Sistema_Delivery_Python_UNESC</code></pre>
 <hr>
 <h2>Equipe</h2>
 <ul>
-  <li>Bryan Pereira Gonçalves</li>
+  <li>Bryan Pereira Gonçalves — [GitHub](https://github.com/bryanpg18)</li></li>
   <li>Davi Mendes</li>
   <li>Karen Suélen da Silva</li>
   <li>Luiz Othavio — [GitHub](https://github.com/Anony90Mous)</li>
