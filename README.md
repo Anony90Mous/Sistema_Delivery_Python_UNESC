@@ -52,6 +52,15 @@ cd Sistema_Delivery_Python_UNESC</code></pre>
   </li>
 </ol>
 <hr>
+<h2>Equipe</h2>
+<ul>
+  <li>Bryan Pereira Gonçalves</li>
+  <li>Davi Mendes</li>
+  <li>Karen Suélen da Silva</li>
+  <li>Luiz Othavio — [GitHub](https://github.com/Anony90Mous)</li>
+  <li>Miguel Alexandre Pickler Domingues</li>
+  <li>Pedro Henrique Moroso da Silva</li>
+</ul>
 <h2>Lincença</h2>
 <p>Este projeto está licenciado sob os termos da licença <strong>MIT</strong> © 2025.</p>
 <p>Você é livre para usar, modificar e distribuir este código, desde que mantenha os créditos aos autores.</p>
